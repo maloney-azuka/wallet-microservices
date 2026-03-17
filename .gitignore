@@ -1,0 +1,19 @@
+# Maven
+target/
+*.jar
+*.war
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Spring Boot
+*.log
+application-local.properties
+
+# OS
+.DS_Store
+Thumbs.db
